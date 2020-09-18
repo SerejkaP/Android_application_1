@@ -3,8 +3,8 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="FindButton">Найти</string>
-    <string name="textForAnswer">Наибольшее число:</string>
-    <string name="Answer">TextView</string>
+    <string name="Answer"> </string>
     <string name="SecondText">Второе число</string>
     <string name="FirstText">Первое число</string>
+    <string name="textAnswer">Число из диапазона</string>
 </resources>
