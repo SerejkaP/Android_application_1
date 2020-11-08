@@ -21,7 +21,6 @@ class MainActivity : AppCompatActivity() {
                 fun diff(max: Int, min: Int): Int = max - min
                 fun ans(max: Int, min: Int): Int =
                     Random(diff(max, min) + 1).nextInt(diff(max, min) + 1) + min
-                // val str = ans(max, min).toString()
                 val str = ans(max, min).toString()
                 textView5.text = str
             }
